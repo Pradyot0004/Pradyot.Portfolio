@@ -1,0 +1,5 @@
+1. In the home page, I changed the image column from two to one.
+2. In the third page, there is a transition only once.
+3. You can see the transition again when you refresh the page.
+4. All the buttons in my website are working and they help the customers go through my website.
+5. You can hover on my project images to get more information.
